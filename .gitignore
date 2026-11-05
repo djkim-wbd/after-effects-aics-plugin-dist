@@ -1,0 +1,5 @@
+# Built installers live on the GitHub release, not in git.
+AICS-Pro-Plugin.zip
+AICS-Pro-Plugin-*.zip
+checksums.txt
+.DS_Store
